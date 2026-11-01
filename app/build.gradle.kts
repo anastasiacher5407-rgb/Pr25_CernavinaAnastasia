@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.a25pr"
+    namespace = "com.example.Pr25_CernavinaAnastasia"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.a25pr"
+        applicationId = "com.example.Pr25_CernavinaAnastasia"
         minSdk = 30
         targetSdk = 36
         versionCode = 1
