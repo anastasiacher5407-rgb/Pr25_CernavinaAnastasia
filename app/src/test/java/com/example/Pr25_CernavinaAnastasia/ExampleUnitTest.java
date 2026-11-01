@@ -1,4 +1,4 @@
-package com.example.a25pr;
+package com.example.Pr25_CernavinaAnastasia;
 
 import org.junit.Test;
 
