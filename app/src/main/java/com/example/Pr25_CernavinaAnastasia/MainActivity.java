@@ -1,4 +1,4 @@
-package com.example.a25pr;
+package com.example.Pr_26ChernavinaAnastasia;
 
 import android.annotation.SuppressLint;
 import android.app.NotificationChannel;
